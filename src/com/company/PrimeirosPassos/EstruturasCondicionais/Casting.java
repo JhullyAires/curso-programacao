@@ -1,4 +1,4 @@
-package com.company.PrimeirosPassos;
+package com.company.PrimeirosPassos.EstruturasCondicionais;
 
 public class Casting {
     public static void main(String[]args) {

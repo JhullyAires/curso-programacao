@@ -1,4 +1,4 @@
-package com.company.PrimeirosPassos;
+package com.company.PrimeirosPassos.EstruturaSequencial;
 
 import java.util.Scanner;
 

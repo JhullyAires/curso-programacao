@@ -1,4 +1,4 @@
-package com.company.PrimeirosPassos;
+package com.company.PrimeirosPassos.EstruturasCondicionais;
 
 import java.util.Locale;
 import java.util.Scanner;
