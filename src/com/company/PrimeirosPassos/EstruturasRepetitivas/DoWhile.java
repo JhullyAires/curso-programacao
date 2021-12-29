@@ -10,7 +10,7 @@ public class DoWhile {
         Scanner scanner = new Scanner(System.in);
 
             // FORMA COM APENAS O WHILE
-        char resposta = 's'; // jeitinho de fazer começar
+/*      char resposta = 's'; // jeitinho de fazer começar
 
         while (resposta != 'n') {
             System.out.print("Insira a temperatura em Celsius: ");
@@ -20,7 +20,7 @@ public class DoWhile {
             System.out.printf("Equivalente em Fahrenheit: %.1f%n", f);
             System.out.print("Deseja repetir (s/n)? ");
             resposta = scanner.next().charAt(0);
-        }
+      }*/
 
                 // FORMA COM DO-WHILE  (melhor forma)
         char resposta;
