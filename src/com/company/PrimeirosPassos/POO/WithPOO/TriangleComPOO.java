@@ -4,7 +4,7 @@ import com.company.PrimeirosPassos.POO.Entities.Triangle;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class TrianguloComPOO {
+public class TriangleComPOO {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
         Scanner scanner = new Scanner(System.in);
