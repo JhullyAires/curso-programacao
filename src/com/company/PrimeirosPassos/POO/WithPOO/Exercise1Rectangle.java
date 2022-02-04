@@ -5,7 +5,7 @@ import com.company.PrimeirosPassos.POO.Entities.Rectangle;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class RectangleExercicio1 {
+public class Exercise1Rectangle {
       public static void main(String[] args) {
         Locale.setDefault(Locale.US);
         Scanner scanner = new Scanner(System.in);

@@ -5,7 +5,7 @@ import com.company.PrimeirosPassos.POO.Entities.EmployeeData;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class EmployeeExercicio2 {
+public class Exercise2Employee {
     public static void main(String[] args) {
 
         Locale.setDefault(Locale.US);
